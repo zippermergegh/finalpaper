@@ -30,6 +30,8 @@ DOI: https://doi.org/10.1038/s41597-021-00930-x · Open-access preprint: https:/
 - DOI: https://doi.org/10.1184/R1/12683453
 - Page: https://kilthub.cmu.edu/articles/dataset/Data_Collected_with_Package_Delivery_Quadcopter_Drone/12683453
 - Alternate link: https://api.figshare.com/v2/articles/12683453
+- A copy of the dataset is in the [`data/`](data/) folder: [`flights.csv`](data/flights.csv), [`flights.zip`](data/flights.zip), [`parameters.csv`](data/parameters.csv), [`raw_files.zip`](data/raw_files.zip), and the original [`README.txt`](data/README.txt).
+  - `flights.csv` and `raw_files.zip` are over 100 MB and are stored with [Git LFS](https://git-lfs.com). Install Git LFS before cloning, or run `git lfs pull` after cloning, to get the real files instead of small pointer files.
 
 ---
 
