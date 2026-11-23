@@ -29,6 +29,7 @@ DOI: https://doi.org/10.1038/s41597-021-00930-x · Open-access preprint: https:/
 **Download (official repository: CMU KiltHub, a Figshare instance):**
 - DOI: https://doi.org/10.1184/R1/12683453
 - Page: https://kilthub.cmu.edu/articles/dataset/Data_Collected_with_Package_Delivery_Quadcopter_Drone/12683453
+- Alternate link: https://api.figshare.com/v2/articles/12683453
 
 ---
 
